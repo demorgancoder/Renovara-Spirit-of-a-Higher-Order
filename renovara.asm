@@ -569,49 +569,49 @@ DataBeginning:
 .section "MAP0" force
 
 palettetitlepal: .incbin "assets/pal/renovaratitlescreen.pal"
-frametitlemap: .incbin "assets/map/renovaratitlescreen.map"
+frametitlemap: .incbin "assets/maps/renovaratitlescreen.map"
 
 palettetext01pal: .incbin "assets/pal/renovaratext1.pal"
-palettetext01map: .incbin "assets/map/renovaratext1.map"
+palettetext01map: .incbin "assets/maps/renovaratext1.map"
 
 palettetext02pal: .incbin "assets/pal/renovaratext2.pal"
-palettetext02map: .incbin "assets/map/renovaratext2.map"
+palettetext02map: .incbin "assets/maps/renovaratext2.map"
 
 palettetext03pal: .incbin "assets/pal/renovaratext3.pal"
-palettetext03map: .incbin "assets/map/renovaratext3.map"
+palettetext03map: .incbin "assets/maps/renovaratext3.map"
 
 palettetext04pal: .incbin "assets/pal/renovaratext4.pal"
-palettetext04map: .incbin "assets/map/renovaratext4.map"
+palettetext04map: .incbin "assets/maps/renovaratext4.map"
 
 palette01: .incbin "assets/pal/more_renovara0001.pal"
-frame01map: .incbin "assets/map/more_renovara0001.map"
+frame01map: .incbin "assets/maps/more_renovara0001.map"
 
 palette02: .incbin "assets/pal/more_renovara0002.pal"
-frame02map: .incbin "assets/map/more_renovara0002.map"
+frame02map: .incbin "assets/maps/more_renovara0002.map"
 
 palette03: .incbin "assets/pal/more_renovara0003.pal"
-frame03map: .incbin "assets/map/more_renovara0003.map"
+frame03map: .incbin "assets/maps/more_renovara0003.map"
 
 palette04: .incbin "assets/pal/more_renovara0004.pal"
-frame04map: .incbin "assets/map/more_renovara0004.map"
+frame04map: .incbin "assets/maps/more_renovara0004.map"
 
 palette05: .incbin "assets/pal/more_renovara0005.pal"
-frame05map: .incbin "assets/map/more_renovara0005.map"
+frame05map: .incbin "assets/maps/more_renovara0005.map"
 
 palette06: .incbin "assets/pal/more_renovara0006.pal"
-frame06map: .incbin "assets/map/more_renovara0006.map"
+frame06map: .incbin "assets/maps/more_renovara0006.map"
 
 palette07: .incbin "assets/pal/more_renovara0007.pal"
-frame07map: .incbin "assets/map/more_renovara0007.map"
+frame07map: .incbin "assets/maps/more_renovara0007.map"
 
 palette08: .incbin "assets/pal/more_renovara0008.pal"
-frame08map: .incbin "assets/map/more_renovara0008.map"
+frame08map: .incbin "assets/maps/more_renovara0008.map"
 
 palette09: .incbin "assets/pal/more_renovara0009.pal"
-frame09map: .incbin "assets/map/more_renovara0009.map"
+frame09map: .incbin "assets/maps/more_renovara0009.map"
 
 palette10: .incbin "assets/pal/more_renovara0010.pal"
-frame10map: .incbin "assets/map/more_renovara0010.map"
+frame10map: .incbin "assets/maps/more_renovara0010.map"
 
 .ends
 
@@ -620,23 +620,23 @@ frame10map: .incbin "assets/map/more_renovara0010.map"
 .section MAP1 force
 
 palette11: .incbin "assets/pal/more_renovara0011.pal"
-frame11map: .incbin "assets/map/more_renovara0011.map"
+frame11map: .incbin "assets/maps/more_renovara0011.map"
 
 palette12: .incbin "assets/pal/more_renovara0012.pal"
-frame12map: .incbin "assets/map/more_renovara0012.map"
+frame12map: .incbin "assets/maps/more_renovara0012.map"
 
 palette13: .incbin "assets/pal/more_renovara0013.pal"
-frame13map: .incbin "assets/map/more_renovara0013.map"
+frame13map: .incbin "assets/maps/more_renovara0013.map"
 
 palette14: .incbin "assets/pal/more_renovara0014.pal"
-frame14map: .incbin "assets/map/more_renovara0014.map"
+frame14map: .incbin "assets/maps/more_renovara0014.map"
 
 palette15: .incbin "assets/pal/more_renovara0015.pal"
-frame15map: .incbin "assets/map/more_renovara0015.map"
+frame15map: .incbin "assets/maps/more_renovara0015.map"
 
 
 palette16: .incbin "assets/pal/more_renovara0016.pal"
-frame16map: .incbin "assets/map/more_renovara0016.map"
+frame16map: .incbin "assets/maps/more_renovara0016.map"
 
 .ends
 
